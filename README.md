@@ -90,7 +90,7 @@ LoadBalancer URL → Live Application
 
 ## 🌐 Connect With Me
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/kastro-kiran/](https://www.linkedin.com/in/kastro-kiran/)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/gangadhara-santh-prakash-6909833a/](https://www.linkedin.com/in/kastro-kiran/)
 * 💬 **WhatsApp DevOps Community:** [https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm](https://chat.whatsapp.com/EGw6ZlwUHZc82cA0vXFnwm)
 
 ---
