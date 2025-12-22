@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: move-app-Service
+spec:
+  type: LoadBalancer
+  selector:
+    app: movie-app
+    ports:
+    - port: 80
+      targetPort: 5000
+      
