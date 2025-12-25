@@ -7,14 +7,14 @@ spec:
   replicas: 2
   selector:
     matchLabels:
-      app: move-app
+      app: movie-app
   template:
     metadata:
       labels:
-        app: move-app
+        app: movie-app
     spec:
       containers:
-      - name: move-app
+      - name: movie-app
         image: gspvsr/multibranch-flask-app:build-5
         ports:
         - containerPort: 5000
