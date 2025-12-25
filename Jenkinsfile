@@ -67,7 +67,7 @@ pipeline {
                             git add k8s/deployment.yml
                             git diff --cached --quiet || git commit -m "Update image to ${IMAGE_TAG}"
 
-                            git push https://${GIT_USERNAME}:${GIT_TOKEN}@github.com/gspvsr/k8s-Multi-Branch-Prod.git master
+                            git push https://${GIT_USERNAME}:${GIT_TOKEN}@github.com/gspvsr/Multi-Branch-Prod.git.git master
                         """
                     }
                 }
