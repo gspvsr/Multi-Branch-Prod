@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: move-app
-        image: gspvsr/multibranch-flask-app:build-4
+        image: gspvsr/multibranch-flask-app:build-5
         ports:
         - containerPort: 5000
         
